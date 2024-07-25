@@ -1,4 +1,4 @@
-const correctPassword = "lo"; // Set your developer password here
+const correctPassword = "love"; // Set your developer password here
 
 function checkDate() {
     const today = new Date();
