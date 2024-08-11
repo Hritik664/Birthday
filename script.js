@@ -23,6 +23,7 @@ function checkDate() {
         startCountdown();
     } else {
         document.querySelector('.days-left').textContent = `8th August has passed.`;
+        document.getElementById('passwordSection').classList.add('active');
     }
 }
 
